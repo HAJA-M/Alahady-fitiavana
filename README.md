@@ -22,3 +22,7 @@ D7: Aza mijangajanga;
 D8: Aza mangalatra;
 D9: Aza mety ho vavolombelona mandainga hanameloka ny namanao;
 D10: Aza mithiriritra;
+
+
+Date : 13 sept 2022
+Manomana fanadinana katekomena : 6 novembre 2022
